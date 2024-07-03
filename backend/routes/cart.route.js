@@ -10,3 +10,5 @@ router.delete("/", protectRoute, removeAllFromCart);
 router.put("/:id", protectRoute, updateQuantity);
 
 export default router;
+
+// Code optimization: 2025-10-17T20:12:24.374Z
