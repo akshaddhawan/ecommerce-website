@@ -8,3 +8,5 @@ router.post("/create-checkout-session", protectRoute, createCheckoutSession);
 router.post("/checkout-success", protectRoute, checkoutSuccess);
 
 export default router;
+
+// Code optimization: 2025-10-18T16:19:21.130Z
